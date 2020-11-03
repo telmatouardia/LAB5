@@ -1,0 +1,7 @@
+1)  creer un fichier script master.sh: nano + nom du fichier.sh 
+on rajoute des commentaire grace à la commande 'echo'
+
+2) le script qui lit 2 nombre  saisis par l'utilisateur avec echo permet à l'utilisateur de tapper le nombre puis read -r pour lire cette valeur 
+
+3 4 5 ) LES script 
+
